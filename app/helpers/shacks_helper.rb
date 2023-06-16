@@ -1,0 +1,2 @@
+module ShacksHelper
+end
